@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibsForProcessing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/LibsForProcessing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

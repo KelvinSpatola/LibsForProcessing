@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/tritonus_aos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jna-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/tritonus_share.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/minim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/VideoExport.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all-natives-linux-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jsminim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jna.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
